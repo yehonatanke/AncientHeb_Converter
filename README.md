@@ -32,9 +32,6 @@ The Converter is a simple Python program designed to convert Hebrew text to eith
 5. **End Program or Perform Another Conversion:**
    - Decide whether to end the program or perform another conversion.
 
-## Author
-
-This program is authored by yehonatanke.
 
 ## Functions
 
