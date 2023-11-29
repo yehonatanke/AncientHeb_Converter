@@ -3,6 +3,16 @@
 
 The Converter is a simple Python program designed to convert Hebrew text to either Phoenician or Samaritan script. It provides a command-line interface for user interaction, allowing users to input Hebrew text, choose the script for conversion, and view the converted text.
 
+## Wikipedia Reference
+
+#### For a more detailed overview, you can visit: 
+   - [Biblical Hebrew orthography](https://en.wikipedia.org/wiki/Biblical_Hebrew_orthography)
+   - [Samaritan script](https://en.wikipedia.org/wiki/Samaritan_script)
+   - [Samaritan Hebrew](https://en.wikipedia.org/wiki/Samaritan_Hebrew)
+   - [Paleo-Hebrew alphabet](https://en.wikipedia.org/wiki/Paleo-Hebrew_alphabet)
+   - [Phoenician alphabet](https://en.wikipedia.org/wiki/Phoenician_alphabet)
+   - [Hebrew alphabet](https://en.wikipedia.org/wiki/Hebrew_alphabet)
+
 ## Usage
 
 1. **Run the Program:**
