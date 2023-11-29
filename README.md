@@ -78,6 +78,10 @@ The main function orchestrating the conversion process.
 - This program is designed to work only with Hebrew text.
 - This program is intended for personal purposes and may require further development for accurate script conversion.
 
+## License
+
+This program is released under the [MIT License](https://github.com/yehonatanke/AncientHeb_Converter/blob/main/LICENSE). Feel free to use, modify, and distribute the code in accordance with the terms of the license.
+
 ## Author
 
 yehonataKe
