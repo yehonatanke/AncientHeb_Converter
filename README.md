@@ -68,3 +68,6 @@ The main function orchestrating the conversion process.
 - This program is designed to work only with Hebrew text.
 - This program is intended for personal purposes and may require further development for accurate script conversion.
 
+## Author
+
+yehonataKe
